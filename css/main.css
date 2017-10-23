@@ -17,6 +17,34 @@ body {
   line-height: 1.71429;
 }
 
+nav{
+
+}
+
+ul{
+  list-style: none;
+  display: inline-block;
+  font-family: sans-serif;
+  font-weight: bold;
+  font size: 20px;
+}
+
+
+li{
+  text-decoration: none;
+  display: block; 
+}
+
+.first {
+  align-content: center;
+
+}
+
+hr{
+    width: 100%
+  style: 5px solid ;
+}
+
 img {
   vertical-align: middle;
 }
